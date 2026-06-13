@@ -129,7 +129,7 @@ to quit manually.
 ## 📸 Screenshot
 
 ```markdown
-![Project Screenshot](Hand Gesture Recognition.png)
+Hand Gesture Recognition.png
 ```
 
 ---
