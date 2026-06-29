@@ -145,8 +145,11 @@ Released under the MIT License.
 **Ashish Kumar Prajapati**
 
 * GitHub: https://github.com/codertheashish
-* Email: [codertheashish@gmail.com](mailto:codertheashish@gmail.com)
+* Email: mailto:codertheashish@gmail.com
 
 ---
 
 ⭐ If you like this project, give it a star on GitHub.
+
+<img width="1672" height="941" alt="Hand_gesture_recogintion" src="https://github.com/user-attachments/assets/d944402b-dc73-418b-831e-056b52133c47" />
+
